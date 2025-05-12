@@ -87,4 +87,4 @@ ex. Press 3
 *	Press 0-9 to KEY IN password (password is 123456)
 *	Press '*' to CLEAR input
 *	Press 'D' to RING the doorbell
-m
+t
